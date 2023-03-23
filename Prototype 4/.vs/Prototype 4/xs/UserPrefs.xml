@@ -1,16 +1,15 @@
 ﻿<Properties StartupConfiguration="{53F2696F-91F9-D403-3CD8-B368D375157F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 4/Scripts/PlayerControllerX.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 4/Scripts/EnemyX.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
-      <File FileName="Assets/SpawnManager.cs" />
-      <File FileName="Assets/Scripts/Enemy.cs" />
-      <File FileName="Assets/Scripts/RotateCamera.cs" />
-      <File FileName="Assets/Challenge 4/Scripts/PlayerControllerX.cs" Line="1" Column="1" />
+      <File FileName="Assets/Challenge 4/Scripts/SpawnManagerX.cs" Line="27" Column="39" />
+      <File FileName="Assets/Challenge 4/Scripts/PlayerControllerX.cs" Line="43" Column="47" />
+      <File FileName="Assets/Challenge 4/Scripts/EnemyX.cs" Line="23" Column="49" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="22" Column="49" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="54035223-9049-4f82-b399-7be12a9c0f4c" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1198135e-239e-4bba-8915-cf03a21c862a" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
